@@ -1,0 +1,3 @@
+# JavaMaster
+
+Here the Definition
