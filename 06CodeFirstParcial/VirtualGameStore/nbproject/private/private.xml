@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/model/Accessory.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/controller/GameManager.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/model/Toy.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/view/VirtualGameStoreSystem.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/controller/ToyManager.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/model/UserName.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/model/Console.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/controller/AccessoryManager.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/controller/ConsoleManager.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/model/Game.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/controller/UserManager.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/controller/PayManager.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/ProjectRefactoring/src/ec/edu/espe/virtualgamestore/model/Menu.java</file>
+=======
+            <file>file:/Users/edisonlascano/Desktop/Dropbox/ESPE/2020Marzo_Julio/POO_6385/code/Unit1Projects/Team3_JM/JavaMaster/06Code/VirtualGameStore/src/ec/edu/espe/virtualgamestore/model/Toy.java</file>
+            <file>file:/Users/edisonlascano/Desktop/Dropbox/ESPE/2020Marzo_Julio/POO_6385/code/Unit1Projects/Team3_JM/JavaMaster/06Code/VirtualGameStore/src/ec/edu/espe/virtualgamestore/controller/ConsoleManager.java</file>
+            <file>file:/Users/edisonlascano/Desktop/Dropbox/ESPE/2020Marzo_Julio/POO_6385/code/Unit1Projects/Team3_JM/JavaMaster/06Code/VirtualGameStore/src/ec/edu/espe/virtualgamestore/controller/PayManager.java</file>
+            <file>file:/Users/edisonlascano/Desktop/Dropbox/ESPE/2020Marzo_Julio/POO_6385/code/Unit1Projects/Team3_JM/JavaMaster/06Code/VirtualGameStore/src/ec/edu/espe/virtualgamestore/controller/ToyManager.java</file>
+>>>>>>> 493fa2dc48dba47d47688d9bb94f75059d66e475
+        </group>
+    </open-files>
+</project-private>

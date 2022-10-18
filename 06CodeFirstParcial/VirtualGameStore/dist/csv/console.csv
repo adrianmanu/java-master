@@ -1,0 +1,10 @@
+id: 01;name: PS5;price: 700.0$;edition: DIGITAL
+id: 02;name: PS3;price: 300.98$;edition: SLIM
+id: 03;name: PS4;price: 450.0$;edition: PRO
+id: 04;name: PS2;price: 100.99$;edition: BASIC
+id: 05;name: PSP;price: 200.0$;edition: VITA
+id: 06;name: XBOX 360;price: 120.0$;edition: ELITE
+id: 07;name: XBOX SERIES X;price: 120.0$;edition: BASIC
+id: 08;name: XBOX 360;price: 120.0$;edition: SLIM
+id: 09;name: Nintendo Switch;price: 120.0$;edition: LITE
+id: 10;name: XBOX ONE;price: 120.0$;edition: AUDI
