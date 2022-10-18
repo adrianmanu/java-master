@@ -1,0 +1,178 @@
+[{
+		"id": "01",
+		"name": "GTA5",
+		"price": 20.99,
+		"color": "White",
+		"quantity": 12,
+		"pegi": 18
+	},
+	{
+		"id": "02",
+		"name": "FIFA20",
+		"price": 12.99,
+		"color": "Yellow",
+		"quantity": 11,
+		"pegi": 18
+	},
+	{
+		"id": "03",
+		"name": "PES2021",
+		"price": 50.99,
+		"color": "Red",
+		"quantity": 3,
+		"pegi": 18
+	},
+        {
+		"id": "04",
+		"name": "Lego Batman",
+		"price": 10.99,
+		"color": "Black",
+		"quantity": 12,
+		"pegi": 18
+	},
+        {
+		"id": "05",
+		"name": "GTA San Andreas",
+		"price": 6.99,
+		"color": "Brown",
+		"quantity": 13,
+		"pegi": 18
+	},
+        {
+		"id": "06",
+		"name": "God Of War",
+		"price": 3.99,
+		"color": "White",
+		"quantity": 11,
+		"pegi": 18
+	},
+        {
+		"id": "07",
+		"name": "Balloneta",
+		"price": 8.99,
+		"color": "Purple",
+		"quantity": 9,
+		"pegi": 18
+	},
+        {
+		"id": "08",
+		"name": "Metal Slug",
+		"price": 10.99,
+		"color": "Gray",
+		"quantity": 6,
+		"pegi": 18
+	},
+        {
+		"id": "09",
+		"name": "Crash Bandicoot",
+		"price": 12.99,
+		"color": "Orange",
+		"quantity": 5,
+		"pegi": 18
+	},
+        {
+		"id": "10",
+		"name": "The Last Of Us II",
+		"price": 60.99,
+		"color": "Red",
+		"quantity": 8,
+		"pegi": 18
+	},
+        {
+		"id": "11",
+		"name": "Resident evil 2",
+		"price": 10.99,
+		"color": "Red",
+		"quantity": 10,
+		"pegi": 18
+	},
+        {
+		"id": "12",
+		"name": "Patapon",
+		"price": 20.99,
+		"color": "White",
+		"quantity": 11,
+		"pegi": 12
+	},
+	{
+		"id": "13",
+		"name": "Need For Speed",
+		"price": 12.99,
+		"color": "Green",
+		"quantity": 11,
+		"pegi": 12
+	},
+	{
+		"id": "14",
+		"name": "Shadows Of Colossus",
+		"price": 50.99,
+		"color": "Gray",
+		"quantity": 3,
+		"pegi": 18
+	},
+        {
+		"id": "15",
+		"name": "Lego Avengers",
+		"price": 10.99,
+		"color": "REd",
+		"quantity": 12,
+		"pegi": 18
+	},
+        {
+		"id": "16",
+		"name": "GTA Vice City",
+		"price": 6.99,
+		"color": "Purple",
+		"quantity": 13,
+		"pegi": 18
+	},
+        {
+		"id": "17",
+		"name": "Minecraft",
+		"price": 29.99,
+		"color": "Green",
+		"quantity": 11,
+		"pegi": 18
+	},
+        {
+		"id": "18",
+		"name": "Silent Hill",
+		"price": 8.99,
+		"color": "Gray",
+		"quantity": 9,
+		"pegi": 18
+	},
+        {
+		"id": "19",
+		"name": "Call Of Duty",
+		"price": 30.99,
+		"color": "Black",
+		"quantity": 6,
+		"pegi": 18
+	},
+        {
+		"id": "20",
+		"name": "Super Mario Bros",
+		"price": 12.99,
+		"color": "Red",
+		"quantity": 4,
+		"pegi": 12
+	},
+        {
+		"id": "21",
+		"name": "Boonderlands",
+		"price": 10.99,
+		"color": "Orange",
+		"quantity": 8,
+		"pegi": 18
+	},
+        {
+		"id": "21",
+		"name": "Resident evil 6",
+		"price": 20.99,
+		"color": "Purple",
+		"quantity": 10,
+		"pegi": 18
+	}
+        
+]

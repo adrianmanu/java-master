@@ -1,0 +1,156 @@
+[{
+        "id": "01",
+        "name": "Headphones",
+        "price": 20.99,
+        "color": "Black",
+        "quantity": 12	
+    },
+    {
+        "id": "02",
+        "name": "Control",
+        "price": 12.99,
+        "color": "White",
+        "quantity": 11
+    },
+    {
+        "id": "03",
+        "name": "Microphone",
+        "price": 50.99,
+        "color": "Black",
+        "quantity": 3
+    },
+    {
+        "id": "04",
+        "name": "PlayStation Move",
+        "price": 10.99,
+        "color": "Black",
+        "quantity": 12
+    },
+    {
+        "id": "05",
+        "name": "PlayStation Camera",
+        "price": 6.99,
+        "color": "Black",
+        "quantity": 13
+    },
+    {
+        "id": "06",
+        "name": "Charger",
+        "price": 3.99,
+        "color": "Black",
+        "quantity": 11
+    },
+    {
+        "id": "07",
+        "name": "PS4 Controller Charging Base",
+        "price": 8.99,
+        "color": "Black",
+        "quantity": 9
+    },
+    {
+        "id": "08",
+        "name": "JoyStick Nintendo Switch",
+        "price": 10.99,
+        "color": "",
+        "quantity": 6
+    },
+    {
+        "id": "09",
+        "name": "USB Spiderman",
+        "price": 12.99,
+        "color": "",
+        "quantity": 5
+    },
+    {
+        "id": "10",
+        "name": "Case for Iphone X",
+        "price": 10.99,
+        "color": "White",
+        "quantity": 8
+    },
+    {
+        "id": "11",
+        "name": "Buttons for XBOX One",
+        "price": 10.99,
+        "color": "White",
+        "quantity": 10
+    },
+    {
+        "id": "12",
+        "name": "Headphones",
+        "price": 20.99,
+        "color": "White",
+        "quantity": 12	
+    },
+    {
+        "id": "13",
+        "name": "Control",
+        "price": 12.99,
+        "color": "White",
+        "quantity": 11
+    },
+    {
+        "id": "14",
+        "name": "Microphone",
+        "price": 50.99,
+        "color": "White",
+        "quantity": 3
+    },
+    {
+        "id": "15",
+        "name": "PlayStation Move",
+        "price": 10.99,
+        "color": "White",
+        "quantity": 12
+    },
+    {
+        "id": "16",
+        "name": "PlayStation Camera",
+        "price": 6.99,
+        "color": "White",
+        "quantity": 13
+    },
+    {
+        "id": "17",
+        "name": "Charger White",
+        "price": 3.99,
+        "color": "White",
+        "quantity": 11
+    },
+    {
+        "id": "18",
+        "name": "XBOX Controller Charging Base",
+        "price": 8.99,
+        "color": "White",
+        "quantity": 9
+    },
+    {
+        "id": "19",
+        "name": "JoyStick Nintendo Wii",
+        "price": 10.99,
+        "color": "White",
+        "quantity": 6
+    },
+    {
+        "id": "20",
+        "name": "USB Batman",
+        "price": 2.99,
+        "color": "White",
+        "quantity": 5
+    },
+    {
+        "id": "21",
+        "name": "Case for Iphone X",
+        "price": 6.99,
+        "color": "White",
+        "quantity": 8
+    },
+    {
+        "id": "22",
+        "name": "Buttons for PS4",
+        "price": 1.99,
+        "color": "White",
+        "quantity": 10
+    }
+
+]

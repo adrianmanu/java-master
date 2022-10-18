@@ -1,0 +1,8 @@
+validateUser(String user, String fileName): boolean
+
+imput 1            expected result
+Josue1999          true
+Fernando           true
+josue              true
+Fernando199        false
+gabo.              false

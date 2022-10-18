@@ -1,0 +1,13 @@
+validateEmail(String) : boolean
+
+input 1                        expected result
+
+jamoreno15@espe.edu.ec         true
+lfnoguera@espe.edu.ec          true
+jjalemanespe.edu.ec            false
+jamoreno1518@espe.edu.ec       true
+samyromanv@Hotmail.com         false
+12345.6@gmail.com              false
+                         
+
+
